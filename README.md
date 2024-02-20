@@ -9,3 +9,9 @@ I am Nicolò, here a couple of my video/talks:
 - [Transactions](https://youtu.be/eNaKKui1-cE?si=1KYepiEzw8DUZFUN)
 - [Pulsar + ElasticSearch](https://youtu.be/CyZwpvw9F6I?si=mUdtxxHbmO4bOuRh)
 - [Pulsar Shell](https://youtu.be/NPP5ZJ1raek?si=xyRSbE4TwOOGllf-)
+
+
+
+<a href="https://twitter.com/oscerd2">
+  <img src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
