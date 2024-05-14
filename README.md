@@ -6,6 +6,7 @@ I am Nicolò.
 
 - [`poetry-dockerize-plugin`](https://github.com/nicoloboschi/poetry-dockerize-plugin): Poetry plugin your Poetry application to a Docker image easily.
 - [`asap`](https://github.com/nicoloboschi/asap): Maven(d)-based build tool to get modules installed locally as fast as possible.
+- [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner): CLI for spins up a K8s cluster locally in 10 seconds.
 
 
 ### Video/talks
