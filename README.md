@@ -15,3 +15,5 @@ I am Nicolò, here a couple of my video/talks:
 <a href="https://twitter.com/oscerd2">
   <img src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
+
+![](https://hit.yhype.me/github/profile?user_id=23314389)
