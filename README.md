@@ -9,10 +9,12 @@ I am Nicolò.
 - [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner): CLI for spins up a K8s cluster locally in 10 seconds.
 
 
-### Video/talks
+### Public talks
 
 #### Generative AI - LangStream
 - [RAG Pattern + AWS Suite](https://youtu.be/bG6pHbQ2U9I?si=F3ujsMK1B8Z6OAaH)
+- [Scaling unstructured data indexing with Apache Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
+
 
 #### Streaming - Apache Pulsar
 - [Transactions](https://youtu.be/eNaKKui1-cE?si=1KYepiEzw8DUZFUN)
