@@ -13,7 +13,7 @@ I am Nicolò.
 
 #### Generative AI - LangStream
 - [RAG Pattern + AWS Suite](https://youtu.be/bG6pHbQ2U9I?si=F3ujsMK1B8Z6OAaH)
-- [Scaling unstructured data indexing with Apache Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
+- [Pulsar Summit EU 2024: Scaling unstructured data indexing with Apache Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
 
 
 #### Streaming - Apache Pulsar
