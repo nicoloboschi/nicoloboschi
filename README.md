@@ -13,6 +13,9 @@ I'm an active contributor of open source projects, mainly:
 - [`poetry-dockerize-plugin`](https://github.com/nicoloboschi/poetry-dockerize-plugin): Poetry plugin your Poetry application to a Docker image easily.
 - [`asap`](https://github.com/nicoloboschi/asap): Maven(d)-based build tool to get modules installed locally as fast as possible.
 - [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner): CLI for spins up a K8s cluster locally in 10 seconds.
+- [`nicoloboschi/setup-astradb`](https://github.com/nicoloboschi/setup-astradb): 🚀 A GitHub action to create DataStax AstraDB database.
+- [`nicoloboschi/cleanup-astradb`](https://github.com/nicoloboschi/cleanup-astradb): 🚀 A GitHub action to delete a DataStax AstraDB database.
+- [`nicoloboschi/cleanup-astradb-env`](https://github.com/nicoloboschi/cleanup-astradb-env): 🚀 A GitHub action to delete a DataStax AstraDB databases that have not been used for some time.
 
 
 ### Public talks
