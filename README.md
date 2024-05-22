@@ -6,7 +6,9 @@ I'm an active contributor of open source projects, mainly:
 - [Apache BookKeeper](https://github.com/apache/bookkeeper)
 - [KAAP (k8s Operator for Apache Pulsar)](https://github.com/datastax/kaap)
 - [LangStream](https://github.com/LangStream/langstream)
-
+- [Llama Index](https://github.com/run-llama/llama_index)
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [LangChainJS](https://github.com/langchain-ai/langchainjs)
 
 ### Personal projects
 
