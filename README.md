@@ -9,7 +9,7 @@ I'm an active contributor of open source projects, mainly:
 - [Llama Index](https://github.com/run-llama/llama_index)
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [LangChainJS](https://github.com/langchain-ai/langchainjs)
-- [LangFlow](https://github.com/langflowai/langflow)
+- [LangFlow](https://github.com/langflow-ai/langflow)
 
 ### Personal projects
 
