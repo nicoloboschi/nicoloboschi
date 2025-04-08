@@ -2,10 +2,10 @@
 I am Nicolò.
 
 I'm an active contributor of open source projects, mainly:
-- [Apache Pulsar](https://github.com/apache/pulsar)
-- [Apache BookKeeper](https://github.com/apache/bookkeeper)
-- [KAAP (k8s Operator for Apache Pulsar)](https://github.com/datastax/kaap)
-- [LangStream](https://github.com/LangStream/langstream)
+- [Apache Pulsar](https://github.com/apache/pulsar) (PMC Member)
+- [Apache BookKeeper](https://github.com/apache/bookkeeper) (Committer)
+- [KAAP (k8s Operator for Apache Pulsar)](https://github.com/datastax/kaap) (creator)
+- [LangStream](https://github.com/LangStream/langstream) (co-creator)
 - [Llama Index](https://github.com/run-llama/llama_index)
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [LangChainJS](https://github.com/langchain-ai/langchainjs)
