@@ -35,7 +35,7 @@ I'm an active contributor of open source projects, mainly:
 
 
 
-<a href="https://twitter.com/oscerd2">
+<a href="https://twitter.com/nicoloboschi">
   <img src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
 
