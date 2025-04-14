@@ -23,7 +23,8 @@ I'm an active contributor of open source projects, mainly:
 
 ### Public talks
 
-#### Generative AI - LangStream
+#### Generative AI
+- [How Claude is Changing the Game for Private Data](https://youtu.be/aYAgTLlinaE?si=WqKXKyTDUgEKNxn5)
 - [RAG Pattern + AWS Suite](https://www.youtube.com/watch?v=EWdZnb6MXog)
 - [Pulsar Summit EU 2024: Scaling unstructured data indexing with Apache Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
 
