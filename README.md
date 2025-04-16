@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nicoloboschi"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/nicoloboschi"><img alt="Twitter" src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&labelColor=1f1f1f&color=5fffaf"></a>
+  <a href="https://twitter.com/nicoloboschi"><img alt="Twitter" src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&labelColor=1f1f1f&color=1f1f1f"></a>
   <a href="https://www.linkedin.com/in/nicol%C3%B3-boschi-621a1a158/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
