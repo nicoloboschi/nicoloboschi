@@ -1,43 +1,58 @@
-## Hi there 👋
-I am Nicolò.
+<p align="center">
+  <a href="https://github.com/nicoloboschi"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/nicoloboschi"><img alt="Twitter" src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&labelColor=1f1f1f&color=5fffaf"></a>
+  <a href="https://www.linkedin.com/in/nicoloboschi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-I'm an active contributor of open source projects, mainly:
+---
+### Vectorize
+
+Currently building [Vectorize.io](https://vectorize.io)
+
+---
+
+### Open Source Contributions
+
+I'm an active contributor and maintainer in the open source ecosystem, including:
+
 - [Apache Pulsar](https://github.com/apache/pulsar) (PMC Member)
 - [Apache BookKeeper](https://github.com/apache/bookkeeper) (Committer)
-- [KAAP (k8s Operator for Apache Pulsar)](https://github.com/datastax/kaap) (creator)
+- [KAAP](https://github.com/datastax/kaap) – Kubernetes Operator for Apache Pulsar (creator)
 - [LangStream](https://github.com/LangStream/langstream) (co-creator)
 - [Llama Index](https://github.com/run-llama/llama_index)
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [LangChainJS](https://github.com/langchain-ai/langchainjs)
 - [LangFlow](https://github.com/langflow-ai/langflow)
 
-### Personal projects
+---
 
-- [`dockerpyze`](https://github.com/nicoloboschi/dockerpyze): Python applications to Docker, automatically.
-- [`asap`](https://github.com/nicoloboschi/asap): Maven(d)-based build tool to get modules installed locally as fast as possible.
-- [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner): CLI for spins up a K8s cluster locally in 10 seconds.
-- [`nicoloboschi/setup-astradb`](https://github.com/nicoloboschi/setup-astradb): 🚀 A GitHub action to create DataStax AstraDB database.
-- [`nicoloboschi/cleanup-astradb`](https://github.com/nicoloboschi/cleanup-astradb): 🚀 A GitHub action to delete a DataStax AstraDB database.
-- [`nicoloboschi/cleanup-astradb-env`](https://github.com/nicoloboschi/cleanup-astradb-env): 🚀 A GitHub action to delete a DataStax AstraDB databases that have not been used for some time.
+### Personal Projects
 
+A few tools I’ve built for speed, automation, and dev experience:
 
-### Public talks
+- [`dockerpyze`](https://github.com/nicoloboschi/dockerpyze) – Automatically Dockerize Python apps 🐳
+- [`asap`](https://github.com/nicoloboschi/asap) – Blazing fast local Maven installs 🚀
+- [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner) – Spin up K8s clusters in 10 seconds
+- [`setup-astradb`](https://github.com/nicoloboschi/setup-astradb) – GH Action to provision AstraDB
+- [`cleanup-astradb`](https://github.com/nicoloboschi/cleanup-astradb) – Delete AstraDB instances
+- [`cleanup-astradb-env`](https://github.com/nicoloboschi/cleanup-astradb-env) – Clean up old unused AstraDB environments
+
+---
+
+### Talks & Conferences
 
 #### Generative AI
 - [How Claude is Changing the Game for Private Data](https://youtu.be/aYAgTLlinaE?si=WqKXKyTDUgEKNxn5)
 - [RAG Pattern + AWS Suite](https://www.youtube.com/watch?v=EWdZnb6MXog)
-- [Pulsar Summit EU 2024: Scaling unstructured data indexing with Apache Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
+- [Scaling unstructured data indexing with Pulsar](https://www.youtube.com/watch?v=EDQjWXzU-Ds)
 
-
-#### Streaming - Apache Pulsar
-- [Transactions](https://youtu.be/eNaKKui1-cE?si=1KYepiEzw8DUZFUN)
+#### Streaming & Apache Pulsar
+- [Transactions in Pulsar](https://youtu.be/eNaKKui1-cE?si=1KYepiEzw8DUZFUN)
 - [Pulsar + ElasticSearch](https://youtu.be/CyZwpvw9F6I?si=mUdtxxHbmO4bOuRh)
-- [Pulsar Shell](https://youtu.be/NPP5ZJ1raek?si=xyRSbE4TwOOGllf-)
+- [Pulsar Shell Demo](https://youtu.be/NPP5ZJ1raek?si=xyRSbE4TwOOGllf-)
 
+---
 
-
-<a href="https://twitter.com/nicoloboschi">
-  <img src="https://img.shields.io/twitter/follow/nicoloboschi?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
-
-![](https://hit.yhype.me/github/profile?user_id=23314389)
+<p align="center">
+  <img src="https://hit.yhype.me/github/profile?user_id=23314389" alt="profile views" />
+</p>
