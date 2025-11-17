@@ -35,6 +35,7 @@ A few tools I’ve built for speed, automation, and dev experience:
 - [`dockerpyze`](https://github.com/nicoloboschi/dockerpyze) – Automatically Dockerize Python apps 🐳
 - [`asap`](https://github.com/nicoloboschi/asap) – Blazing fast local Maven installs 🚀
 - [`lkr`](https://github.com/nicoloboschi/local-kubernetes-runner) – Spin up K8s clusters in 10 seconds
+- [`longmemeval-inspector`](https://github.com/nicoloboschi/longmemeval-inspector) - Visual inspector for LongMemEval dataset
 - [`setup-astradb`](https://github.com/nicoloboschi/setup-astradb) – GH Action to provision AstraDB
 - [`cleanup-astradb`](https://github.com/nicoloboschi/cleanup-astradb) – Delete AstraDB instances
 - [`cleanup-astradb-env`](https://github.com/nicoloboschi/cleanup-astradb-env) – Clean up old unused AstraDB environments
