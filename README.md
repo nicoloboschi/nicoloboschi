@@ -17,6 +17,8 @@ Currently building [Vectorize.io](https://vectorize.io)
 
 I'm an active contributor and maintainer in the open source ecosystem, including:
 
+- [Hindsight](https://github.com/vectorize-io/hindsight) (co-creator)
+- [pg0](https://github.com/vectorize-io/pg0) (creator)
 - [Apache Pulsar](https://github.com/apache/pulsar) (PMC Member)
 - [Apache BookKeeper](https://github.com/apache/bookkeeper) (Committer)
 - [KAAP](https://github.com/datastax/kaap) – Kubernetes Operator for Apache Pulsar (creator)
